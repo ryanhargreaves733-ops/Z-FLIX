@@ -18,9 +18,9 @@
     "sha256": "d8e3cdbf23011e6092772cc3b9799135fca97afea3f526db802a1fee3af94a6f"
   },
   "phone": {
-    "file": "Zflix-2.18.apk",
-    "version": "2.18",
-    "code": 21,
-    "sha256": "c19f641ed65744fc49f9413fe0a80dfb3ab30e529d59fb29ff845ab4b558a692"
+    "file": "Zflix-2.17.apk",
+    "version": "2.17",
+    "code": 20,
+    "sha256": "13ca835a18a49fc9dafb5883655583c1f52864ff334f8539b1a520f467e317b6"
   }
 }
