@@ -1,26 +1,26 @@
 {
-  "laptop": {
-    "code": 16,
-    "version": "2.13",
-    "file": "Zflix-laptop-x86_64-2.13",
-    "sha256": "552e57aecaf73500d8af5839bfc92dfe3f7521b6a346785a2368461ca6e75f31"
-  },
   "pi": {
-    "code": 16,
-    "version": "2.13",
-    "file": "Zflix-pi-arm64-2.13",
-    "sha256": "9b4db344015e91be4a0236a5457942992f582742726687c4df2e16cb158c5b8f"
+    "code": 19,
+    "version": "2.16",
+    "file": "Zflix-pi-arm64-2.16",
+    "sha256": "7db88cf8ecda786948098de1eaa2e3fa07e0b9a31390be000813a4e2910c2a6b"
+  },
+  "laptop": {
+    "code": 19,
+    "version": "2.16",
+    "file": "Zflix-laptop-x86_64-2.16",
+    "sha256": "c78140ab136d7d4c1959764106555465174ac1f8109c2195bd45bfd2ee55dbae"
   },
   "firestick": {
-    "code": 16,
-    "version": "2.13",
-    "file": "Zflix-TV-2.13.apk",
-    "sha256": "927a52ff69fb8dea81067cf279c3b999250d6c5646476c99fd43d22098e3163a"
+    "code": 19,
+    "version": "2.16",
+    "file": "Zflix-TV-2.16.apk",
+    "sha256": "d8e3cdbf23011e6092772cc3b9799135fca97afea3f526db802a1fee3af94a6f"
   },
   "phone": {
-    "code": 18,
-    "version": "2.15",
-    "file": "Zflix-2.15.apk",
-    "sha256": "68d60a17bba06da444a2840d3bb9a71d57017a9073dd72bb69995389ecf60bf4"
+    "file": "Zflix-2.17.apk",
+    "version": "2.17",
+    "code": 20,
+    "sha256": "13ca835a18a49fc9dafb5883655583c1f52864ff334f8539b1a520f467e317b6"
   }
 }
